@@ -182,6 +182,13 @@ O uso da Inteligência Artificial demonstrou que a qualidade das respostas está
 Este projeto pode evoluir para uma aplicação real (healthtech), conectando usuários a planos alimentares personalizados, profissionais de saúde e recomendações inteligentes — alinhado a soluções digitais como marketplaces de bem-estar.
 
 ---
+## 🔗 Notebook do Projeto
+
+O material completo, incluindo organização das fontes e interações com a IA, pode ser acessado abaixo:
+
+https://notebooklm.google.com/notebook/e6b03246-919a-4be0-a11b-99a9cd053eda
+
+O README contém a versão consolidada para facilitar a leitura e avaliação.
 
 ## 🛠️ Ferramentas Utilizadas
 
