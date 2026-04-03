@@ -1,7 +1,7 @@
 # 🧠 Manual do Shape Econômico com IA
 
 ## 🚀 Sobre o Projeto
-Projeto de aprendizado utilizando Inteligência Artificial como ferramenta de aprendizado ativo, aplicado à criação de um guia de dieta e treino acessível, com foco no brasileiro médio e uma rotina realista, incluindo engenharia de prompts e curadoria de fontes, .
+Projeto de aprendizado utilizando Inteligência Artificial como ferramenta de aprendizado ativo, aplicado à criação de um guia de dieta e treino acessível, com foco no brasileiro médio e uma rotina realista, incluindo engenharia de prompts e curadoria de fontes.
 
 A proposta é unir conhecimento técnico com aplicabilidade real, considerando fatores como:
 - Rotina corrida
