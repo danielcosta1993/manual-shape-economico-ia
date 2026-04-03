@@ -35,7 +35,8 @@ https://pubmed.ncbi.nlm.nih.gov/
 
 4. Conteúdos educacionais sobre treino e alimentação acessível  
 
-5. Materiais práticos sobre planejamento alimentar e rotina fitness  
+5. Materiais práticos sobre planejamento alimentar e rotina fitness
+6. Receitas excelentes "sem frescura"
 
 ---
 
