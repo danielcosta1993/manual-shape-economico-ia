@@ -1,4 +1,4 @@
-# 🧠 Manual do Shape Econômico com IA
+# 🧠 guia-saude-acessivel-ia
 
 ## 🚀 Sobre o Projeto
 Projeto de aprendizado utilizando Inteligência Artificial como ferramenta de aprendizado ativo, aplicado à criação de um guia de dieta e treino acessível, com foco no brasileiro médio e uma rotina realista, incluindo engenharia de prompts e curadoria de fontes.
